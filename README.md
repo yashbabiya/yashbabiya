@@ -3,7 +3,7 @@
 💻 I am learning web development.<br>
 ♟️ And I love to play chess.
 
-<a target='_blanck' href='yashbabiya.netlify.app'>About me</a>
+<a target='_blanck' href='https://yashbabiya.netlify.app'>About me</a>
 
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashbabiya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats" alt=""/>
